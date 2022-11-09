@@ -32,6 +32,3 @@ class ViewController: UIViewController {
     }
 }
 ```
-
-
-# Ios-xylophone
